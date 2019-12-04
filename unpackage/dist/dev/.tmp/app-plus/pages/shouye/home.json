@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "home-swiper": "/pages/shouye/homeSwiper",
+    "home-column": "/pages/shouye/homeColumn"
+  },
+  "component": true
+}
